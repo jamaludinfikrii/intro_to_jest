@@ -1,0 +1,15 @@
+{
+  "name": "testingvueapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_test_without_jest.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
